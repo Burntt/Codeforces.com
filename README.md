@@ -14,7 +14,6 @@ The Codeforces platform is typically used when preparing for competitive program
 - "Polygon" feature for creating and testing problems;
 - Social networking through internal public blogs.
 
-Codeforces non-official vectorized main logo.(Without sponsors)
 Contestants are rated by a system similar to Elo rating system. There are usually no prizes for winners, though several times a year special contests are held, in which top performing contestants receive T-shirts. Some bigger contests are hosted on Codeforces base, among them "The Lyft Level 5 Challenge 2018", provided by Lyft [15] or "Microsoft Q# Coding Contest — Summer 2018" provided by Microsoft.[16]
 
-Contestants are divided into ranks based on their ratings. Since May 2018, users with ratings between 1900 and 2099 can be rated in both Div. 1 and Div. 2 contests. At the same time, Div. 3 was created for users rated below 1600. The table below was up-to-date on 2018-12-26.[17]
+Contestants are divided into ranks based on their ratings.
